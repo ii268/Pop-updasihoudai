@@ -16,7 +16,7 @@ tkinter messageboxでGUIで自分のメッセージが付いたポップアッ�
 
 ## ダウンロードリンク
 
-<a href="https://raw.githubusercontent.com/ii268/Pop-updasihoudai/refs/heads/main/Pop-up.py" download>ソースをダウンロード</a>
+<a href="https://raw.githubusercontent.com/ii268/Pop-updasihoudai/refs/heads/main/Pop-up2.py" download>ソースをダウンロード</a>
 
 ## 動作確認済み環境
 
