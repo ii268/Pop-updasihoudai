@@ -38,7 +38,7 @@ def showab():
 
 styl = ttk.Style()
 # print(styl.theme_names()) #デフォルトテーマ一覧取得
-styl.theme_use("xpnative")
+styl.theme_use("default") #テーマ一設定
 
 memubar = tk.Menu(root)
 memubar.add_command(label="About", command=showab)
